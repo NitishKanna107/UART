@@ -1,0 +1,2 @@
+read_verilog src/UART_TX.v;
+synth_gowin -top uart_tx -json build/UART_TX.json;

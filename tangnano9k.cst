@@ -1,0 +1,7 @@
+IO_LOC "clk" 52;
+
+IO_LOC "rst" 3;
+IO_LOC "tx_active" 4;
+
+IO_LOC "tx" 17;
+IO_PORT "uart_tx" IO_TYPE=LVCMOS33;
